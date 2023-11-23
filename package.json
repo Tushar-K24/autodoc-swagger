@@ -1,0 +1,15 @@
+{
+  "name": "api-documentation",
+  "version": "1.0.0",
+  "description": "auto generate swagger api documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "keywords": [
+    "documentation",
+    "swagger"
+  ],
+  "author": "Tushar Khanduri",
+  "license": "ISC"
+}
